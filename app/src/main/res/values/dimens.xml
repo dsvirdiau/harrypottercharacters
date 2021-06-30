@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLeftRight">10dp</dimen>
+    <dimen name="widthPhoto">72dp</dimen>
+    <dimen name="heightPhoto">72dp</dimen>
+    <dimen name="swipeLayoutMarginTop">10dp</dimen>
+    <dimen name="paddingTopBottom">5dp</dimen>
+    <dimen name="cardViewMargin">8dp</dimen>
+    <dimen name="cardCornerRadius">10dp</dimen>
+</resources>

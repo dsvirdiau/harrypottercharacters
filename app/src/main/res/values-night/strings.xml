@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="students">Students</string>
+    <string name="staff">Staff</string>
+    <string name="gryffindor">Gryffindor</string>
+    <string name="hufflepuff">Hufflepuff</string>
+    <string name="ravenclaw">Ravenclaw</string>
+    <string name="slytherin">Slytherin</string>
+</resources>
